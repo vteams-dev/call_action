@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.email       = 'm.shahzad.tariq@hotmaul.com'
   s.files       = `git ls-files`.split($\).reject{|f| f =~ /(\.gemspec)/ }
   s.require_paths = ['lib']
-  s.homepage    = 'https://callaction.co/documentation/developers/api/v1/index.html'
+  s.homepage    = 'https://app.callaction.co/documentation/developers/api/v1/index.html'
   s.license       = 'MIT'
 end
